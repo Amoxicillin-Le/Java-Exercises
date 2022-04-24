@@ -2,7 +2,7 @@ package com.amoxicillin.le;
 
 import java.util.Scanner;
 
-public class Main {
+public class Test {
 
 //    一、题目
 //    程序员小明打了一辆出租车去上班。
